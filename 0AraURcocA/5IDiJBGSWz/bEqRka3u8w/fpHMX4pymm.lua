@@ -1,4 +1,3 @@
--- looking for code?
 local StrToNumber = tonumber;
 local Byte = string.byte;
 local Char = string.char;
